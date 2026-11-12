@@ -23,6 +23,9 @@
 - [Top Rated Plumber Wa Gig Harbor Guide](https://local-business-guides.github.io/owen-and-sons-plumbing-llc-gig-harbor/top-rated-plumber-wa-gig-harbor/): Searching for Top Rated Plumber Wa Gig Harbor? Use a clear hiring checklist for plumbing help in Gig Harbor, then call Owen & Sons Plumbing LLC today.
 - [Licensed Plumber Wa Gig Harbor Guide](https://local-business-guides.github.io/owen-and-sons-plumbing-llc-gig-harbor/licensed-plumber-wa-gig-harbor/): Need a Licensed Plumber Wa Gig Harbor? Use these questions to discuss credentials and job scope in Gig Harbor, then call Owen & Sons Plumbing LLC today.
 
+## Newsroom
+- [Owen & Sons Plumbing LLC Shares New Gig Harbor Plumbing Guide](https://local-business-guides.github.io/owen-and-sons-plumbing-llc-gig-harbor/news/2026-11-12-owen-sons-plumbing-llc-shares-new-gig-harbor/): Owen & Sons Plumbing LLC published a guide to Plumber Gig Harbor WA, with related video, podcast and audio releases this week. (2026-11-12)
+
 ## Pages
 - [Plumber in Gig Harbor, Washington](https://local-business-guides.github.io/owen-and-sons-plumbing-llc-gig-harbor/): Get clear, practical plumbing help from Owen & Sons Plumbing LLC in Gig Harbor, Washington. Call +1253-387-2047.
 - [About Owen & Sons Plumbing LLC](https://local-business-guides.github.io/owen-and-sons-plumbing-llc-gig-harbor/about/): About Owen & Sons Plumbing LLC, Gig Harbor.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/owen-and-sons-plumbing-llc-gig-harbor/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/owen-and-sons-plumbing-llc-gig-harbor/news/rss.xml)
 - [Main resource site](https://owen-sons-plumbing-gig-harbor-wa.localwebsites.chatgpt.site)

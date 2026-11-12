@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/owen-and-sons-plumbing-llc-gig-harbor/sitemap.xml
+Sitemap: https://local-business-guides.github.io/owen-and-sons-plumbing-llc-gig-harbor/news-sitemap.xml
